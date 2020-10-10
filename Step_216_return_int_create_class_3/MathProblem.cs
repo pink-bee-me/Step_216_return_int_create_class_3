@@ -9,10 +9,10 @@ namespace Step_216_return_int_create_class_3
     class MathProblem
     {
         
-        public MathProblem problem()
-        {
+        public MathProblem
+        
             
-        }
+        
     
              int x { get; set; }
         int num { get; set; }
